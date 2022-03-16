@@ -1,0 +1,26 @@
+{
+  "name": "templating-with-ejs",
+  "version": "1.0.0",
+  "description": "Import this repo to create a starting point for Node.js projects in repl.it, https://replit.com",
+  "main": "index.js",
+  "dependencies": {
+    "cjs": "0.0.11",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koko-santi/templating-with-ejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koko-santi/templating-with-ejs/issues"
+  },
+  "homepage": "https://github.com/koko-santi/templating-with-ejs#readme"
+}
